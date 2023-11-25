@@ -6,6 +6,9 @@
       }
     },
     "sectionTree": {
+      "titleExperience": {
+        "title": "Projetos em destaque"
+      },
       "cardExperience": [
         {
           "title": "teste",
@@ -22,7 +25,7 @@
           "images": "https://i.imgur.com/nqGf40O.jpg"
         }
       ],
-      "projects": {
+      "titleAll": {
         "title": "Todos os Projetos"
       },
       "cardsProjects": [
