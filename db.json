@@ -6,10 +6,12 @@
       }
     },
     "sectionTree": {
-      "titleExperience": {
+
+      "titleHighlights": {
         "title": "Projetos em destaque"
       },
-      "cardExperiences": [
+
+      "cardsHighlights": [
         {
           "title": "teste",
           "images": "https://i.imgur.com/nqGf40O.jpg",
@@ -25,10 +27,12 @@
           "images": "https://i.imgur.com/nqGf40O.jpg"
         }
       ],
-      "titleAll": {
+
+      "titleAllProjects": {
         "title": "Todos os Projetos"
       },
-      "cardsProjects": [
+
+      "cardsAllProjects": [
         {
           "title": "Portal Minha Senha",
           "images": "https://i.imgur.com/nqGf40O.jpg"
