@@ -23,8 +23,9 @@
           "icons": "icons2"
         },
         {
-          "title": "Portal Minha Senha",
-          "images": "https://i.imgur.com/nqGf40O.jpg"
+          "title": "Landing Page Meet",
+          "images": "cardTwo",
+          "icons": "icons2"
         }
       ],
 
@@ -35,22 +36,22 @@
       "cardsAllProjects": [
         {
           "title": "Portal Minha Senha",
-          "images": "https://i.imgur.com/nqGf40O.jpg"
+          "images": "cardOne",
+          "icons": "icons1"
         },
         {
-          "title": "Portal Minha Senha",
-          "images": "https://i.imgur.com/nqGf40O.jpg"
+          "title": "Landing Page Meet",
+          "images": "cardTwo",
+          "icons": "icons2"
         },
         {
-          "title": "Portal Minha Senha",
-          "images": "https://i.imgur.com/nqGf40O.jpg"
-        },
-        {
-          "title": "Portal Minha Senha",
-          "images": "https://i.imgur.com/nqGf40O.jpg"
+          "title": "Landing Page Meet",
+          "images": "cardTwo",
+          "icons": "icons2"
         },
         {
           "title": "Trabalhando nisso...",
+          "component": "customComponent",
           "viewMore": false
         }
       ],
