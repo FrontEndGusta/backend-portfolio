@@ -51,7 +51,7 @@
         },
         {
           "title": "Trabalhando nisso...",
-          "component": "customComponent",
+          "component": "customComponentKey",
           "viewMore": false
         }
       ],
