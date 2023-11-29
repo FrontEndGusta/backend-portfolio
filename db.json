@@ -13,13 +13,13 @@
 
       "cardsHighlights": [
         {
-          "title": "teste",
-          "images": "https://i.imgur.com/nqGf40O.jpg",
+          "title": "Portal Minha Senha",
+          "images": "cardOne",
           "icons": "icons1"
         },
         {
-          "title": "Portal Minha Senha",
-          "images": "https://i.imgur.com/nqGf40O.jpg",
+          "title": "Landing Page Meet",
+          "images": "cardTwo",
           "icons": "icons2"
         },
         {
@@ -56,14 +56,14 @@
       ],
       "modalVideoHighlights": [
         {
-          "title": "titulo do video",
+          "title": "Portal Minha Senha",
           "description": "gusta ipsum dolor sit amet consectetur adipisicing elit. Eius blanditiis reiciendis, perspiciatis quod laboriosam quas consectetur amet, vitae facilis possimus recusandae accusamus quibusdam perferendis ex. Illo unde totam mollitia eos.",
           "images": "modalOne"
         },
         {
-          "title": "titulo do video",
+          "title": "Landing Page Meet",
           "description": "ipsum dolor sit amet consectetur adipisicing elit. Eius blanditiis reiciendis, perspiciatis quod laboriosam quas consectetur amet, vitae facilis possimus recusandae accusamus quibusdam perferendis ex. Illo unde totam mollitia eos.",
-          "url": "https://www.youtube.com/embed/SEZNJp3otzg"
+          "images": "ModalTwo"
         },
         {
           "title": "titulo do video",
