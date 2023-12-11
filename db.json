@@ -1,77 +1,84 @@
 {
-    "sectionTwo": {
-      "about": {
-        "aboutMe": "Sobre mim",
-        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Eius blanditiis reiciendis, perspiciatis quod laboriosam quas consectetur amet, vitae facilis possimus recusandae accusamus quibusdam perferendis ex. Illo unde totam mollitia eos."
-      }
-    },
-    "sectionTree": {
-
-      "titleHighlights": {
-        "title": "Projetos em destaque"
-      },
-
-      "cardsHighlights": [
-        {
-          "title": "Portal Minha Senha",
-          "images": "cardOne",
-          "icons": "icons1"
-        }
-      ],
-
-      "titleAllProjects": {
-        "title": "Todos os Projetos"
-      },
-
-      "cardsAllProjects": [
-        {
-          "title": "Portal Minha Senha",
-          "images": "cardOne",
-          "icons": "icons1"
-        },
-        {
-          "title": "Landing Page Meet",
-          "images": "cardTwo",
-          "icons": "icons2"
-        },
-        {
-          "title": "Game Secret Word",
-          "images": "cardThree",
-          "icons": "icons3"
-        },
-        {
-          "title": "Tome um Café, Trabalhando nisso...",
-          "component": "customComponentKey",
-          "viewMore": false
-        }
-      ],
-      "modalVideoHighlights": [
-        {
-          "title": "Portal Minha Senha",
-          "description": "gusta ipsum dolor sit amet consectetur adipisicing elit. Eius blanditiis reiciendis, perspiciatis quod laboriosam quas consectetur amet, vitae facilis possimus recusandae accusamus quibusdam perferendis ex. Illo unde totam mollitia eos.",
-          "images": "modalOne"
-        }
-      ],
-      "modalVideoAllProjects": [
-        {
-          "title": "Portal Minha Senha",
-          "description": "gusta ipsum dolor sit amet consectetur adipisicing elit. Eius blanditiis reiciendis, perspiciatis quod laboriosam quas consectetur amet, vitae facilis possimus recusandae accusamus quibusdam perferendis ex. Illo unde totam mollitia eos.",
-          "images": "modalOne",
-          "projectLink": "https://minhasenha.cea.com.br",
-          "repositoryLink": "",
-          "LinkedInLink": "https://www.linkedin.com/in/gustavo-silva-37453a144?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"
-        },
-        {
-          "title": "Landing Page Meet",
-          "description": "ipsum dolor sit amet consectetur adipisicing elit. Eius blanditiis reiciendis, perspiciatis quod laboriosam quas consectetur amet, vitae facilis possimus recusandae accusamus quibusdam perferendis ex. Illo unde totam mollitia eos.",
-          "images": "modalTwo"
-        },
-        {
-          "title": "Landing Page Meet",
-          "description": "ipsum dolor sit amet consectetur adipisicing elit. Eius blanditiis reiciendis, perspiciatis quod laboriosam quas consectetur amet, vitae facilis possimus recusandae accusamus quibusdam perferendis ex. Illo unde totam mollitia eos.",
-          "images": "modalThree"
-        }
-      ]
+  "sectionTwo": {
+    "about": {
+      "aboutMe": "Sobre mim",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Eius blanditiis reiciendis, perspiciatis quod laboriosam quas consectetur amet, vitae facilis possimus recusandae accusamus quibusdam perferendis ex. Illo unde totam mollitia eos."
     }
+  },
+  "sectionTree": {
+    "titleHighlights": {
+      "title": "Projetos em destaque"
+    },
+
+    "cardsHighlights": [
+      {
+        "title": "Portal Minha Senha",
+        "images": "cardOne",
+        "icons": "icons1"
+      }
+    ],
+
+    "titleAllProjects": {
+      "title": "Todos os Projetos"
+    },
+
+    "cardsAllProjects": [
+      {
+        "title": "Portal Minha Senha",
+        "images": "cardOne",
+        "icons": "icons1"
+      },
+      {
+        "title": "Landing Page Meet",
+        "images": "cardTwo",
+        "icons": "icons2"
+      },
+      {
+        "title": "Game Secret Word",
+        "images": "cardThree",
+        "icons": "icons3"
+      },
+      {
+        "title": "Tome um Café, Trabalhando nisso...",
+        "component": "customComponentKey",
+        "viewMore": false
+      }
+    ],
+    "modalVideoHighlights": [
+      {
+        "title": "Portal Minha Senha",
+        "description": "gusta ipsum dolor sit amet consectetur adipisicing elit. Eius blanditiis reiciendis, perspiciatis quod laboriosam quas consectetur amet, vitae facilis possimus recusandae accusamus quibusdam perferendis ex. Illo unde totam mollitia eos.",
+        "images": "modalOne",
+        "projectLink": "https://minhasenha.cea.com.br",
+        "repositoryLink": "",
+        "LinkedInLink": "https://www.linkedin.com/in/gustavo-silva-37453a144?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"
+      }
+    ],
+    "modalVideoAllProjects": [
+      {
+        "title": "Portal Minha Senha",
+        "description": "gusta ipsum dolor sit amet consectetur adipisicing elit. Eius blanditiis reiciendis, perspiciatis quod laboriosam quas consectetur amet, vitae facilis possimus recusandae accusamus quibusdam perferendis ex. Illo unde totam mollitia eos.",
+        "images": "modalOne",
+        "projectLink": "https://minhasenha.cea.com.br",
+        "repositoryLink": "",
+        "LinkedInLink": "https://www.linkedin.com/in/gustavo-silva-37453a144?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"
+      },
+      {
+        "title": "Landing Page Meet",
+        "description": "ipsum dolor sit amet consectetur adipisicing elit. Eius blanditiis reiciendis, perspiciatis quod laboriosam quas consectetur amet, vitae facilis possimus recusandae accusamus quibusdam perferendis ex. Illo unde totam mollitia eos.",
+        "images": "modalTwo",
+        "projectLink": "https://landing-page-lime-mu-82.vercel.app/",
+        "repositoryLink": "https://github.com/FrontEndGusta/Landing-page.git",
+        "LinkedInLink": "https://www.linkedin.com/in/gustavo-silva-37453a144?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"
+      },
+      {
+        "title": "Game Secret Word",
+        "description": "ipsum dolor sit amet consectetur adipisicing elit. Eius blanditiis reiciendis, perspiciatis quod laboriosam quas consectetur amet, vitae facilis possimus recusandae accusamus quibusdam perferendis ex. Illo unde totam mollitia eos.",
+        "images": "modalThree",
+        "projectLink": "https://game-secret-word-sable.vercel.app/",
+        "repositoryLink": "https://github.com/FrontEndGusta/Game_secretWord.git",
+        "LinkedInLink": "https://www.linkedin.com/in/gustavo-silva-37453a144?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"
+      }
+    ]
   }
-  
+}
