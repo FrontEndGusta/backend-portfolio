@@ -35,12 +35,12 @@
           "icons": "icons2"
         },
         {
-          "title": "Landing Page Meet",
+          "title": "Game Secret Word",
           "images": "cardThree",
           "icons": "icons3"
         },
         {
-          "title": "Trabalhando nisso...",
+          "title": "Tome um Café, Trabalhando nisso...",
           "component": "customComponentKey",
           "viewMore": false
         }
