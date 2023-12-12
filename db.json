@@ -2,7 +2,7 @@
   "sectionTwo": {
     "about": {
       "aboutMe": "Sobre mim",
-      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Eius blanditiis reiciendis, perspiciatis quod laboriosam quas consectetur amet, vitae facilis possimus recusandae accusamus quibusdam perferendis ex. Illo unde totam mollitia eos."
+      "description": "Desenvolvedor Front-end especializado em React.js, JavaScript e atualmente aprimorando habilidades em TypeScript, Styled Components e Material UI para uma abordagem mais robusta no desenvolvimento web. Destaco-me na criação de componentes reutilizáveis e no desenvolvimento de interfaces dinâmicas e responsivas. Gerencio projetos eficientemente por meio de Metodologias Ágeis. Formado em Anâlise e Desenvolvimento de Sistemas, estou continuamente atualizando meu conhecimento, incluindo o estudo ativo de novas tecnologias. Atualmente, estou dedicado a expandir minha proficiência em TypeScript e explorar outras inovações no cenário de desenvolvimento web."
     }
   },
   "sectionTree": {
@@ -57,7 +57,7 @@
     "modalVideoAllProjects": [
       {
         "title": "Portal Minha Senha",
-        "description": "gusta ipsum dolor sit amet consectetur adipisicing elit. Eius blanditiis reiciendis, perspiciatis quod laboriosam quas consectetur amet, vitae facilis possimus recusandae accusamus quibusdam perferendis ex. Illo unde totam mollitia eos.",
+        "description": "Este projeto foi elaborado utilizando HTML, CSS e JavaScript, com o objetivo de proporcionar orientação e assistência aos usuários da empresa durante os processos de desbloqueio de conta e redefinição de senha. A interface é responsiva, incorporando modais para uma experiência de usuário intuitiva. Além disso, o projeto oferece um vídeo instrutivo para guiar os usuários através dos procedimentos e disponibiliza a opção de download de um PDF contendo instruções detalhadas para facilitar ainda mais o processo.",
         "images": "modalOne",
         "projectLink": "https://minhasenha.cea.com.br",
         "repositoryLink": "",
@@ -65,7 +65,7 @@
       },
       {
         "title": "Landing Page Meet",
-        "description": "ipsum dolor sit amet consectetur adipisicing elit. Eius blanditiis reiciendis, perspiciatis quod laboriosam quas consectetur amet, vitae facilis possimus recusandae accusamus quibusdam perferendis ex. Illo unde totam mollitia eos.",
+        "description": "Este projeto consiste na criação de um clone responsivo da landing page do Meet usando HTML e CSS. Focado no treinamento de habilidades, busca oferecer uma experiência prática, destacando a construção de um design adaptável a diferentes dispositivos. Incorpora técnicas avançadas de estilização CSS e elementos interativos, proporcionando uma oportunidade para aprimorar habilidades em HTML, CSS e design responsivo.",
         "images": "modalTwo",
         "projectLink": "https://landing-page-lime-mu-82.vercel.app/",
         "repositoryLink": "https://github.com/FrontEndGusta/Landing-page.git",
@@ -73,7 +73,7 @@
       },
       {
         "title": "Game Secret Word",
-        "description": "ipsum dolor sit amet consectetur adipisicing elit. Eius blanditiis reiciendis, perspiciatis quod laboriosam quas consectetur amet, vitae facilis possimus recusandae accusamus quibusdam perferendis ex. Illo unde totam mollitia eos.",
+        "description": "O projeto Secret Word é um jogo de adivinhação de palavras desenvolvido em React.js, React e CSS, composto por três estágios: início, jogo e fim, o jogo envolve a escolha aleatória de palavras, adivinhação de letras, e pontuação. Utilizando React Hooks e props, o projeto destaca-se pela responsividade e oferece uma oportunidade prática para aprimorar habilidades em React, manipulação de estado e design responsivo.",
         "images": "modalThree",
         "projectLink": "https://game-secret-word-sable.vercel.app/",
         "repositoryLink": "https://github.com/FrontEndGusta/Game_secretWord.git",
