@@ -39,7 +39,7 @@
         "icons": "icons3"
       },
       {
-        "title": "Tome um Café, Trabalhando nisso...",
+        "title": "Trabalhando nisso...",
         "component": "customComponentKey",
         "viewMore": false
       }
