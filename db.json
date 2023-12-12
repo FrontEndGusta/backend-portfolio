@@ -47,7 +47,7 @@
     "modalVideoHighlights": [
       {
         "title": "Portal Minha Senha",
-        "description": "gusta ipsum dolor sit amet consectetur adipisicing elit. Eius blanditiis reiciendis, perspiciatis quod laboriosam quas consectetur amet, vitae facilis possimus recusandae accusamus quibusdam perferendis ex. Illo unde totam mollitia eos.",
+        "description": "Este projeto foi elaborado utilizando HTML, CSS e JavaScript, com o objetivo de proporcionar orientação e assistência aos usuários da empresa durante os processos de desbloqueio de conta e redefinição de senha. A interface é responsiva, incorporando modais para uma experiência de usuário intuitiva. Além disso, o projeto oferece um vídeo instrutivo para guiar os usuários através dos procedimentos e disponibiliza a opção de download de um PDF contendo instruções detalhadas para facilitar ainda mais o processo.",
         "images": "modalOne",
         "projectLink": "https://minhasenha.cea.com.br",
         "repositoryLink": "",
