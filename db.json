@@ -12,7 +12,7 @@
 
     "cardsHighlights": [
       {
-        "title": "Portal Minha Senha",
+        "title": "Portal Minha Senha (C&A)",
         "images": "cardOne",
         "icons": "icons1"
       }
@@ -24,7 +24,7 @@
 
     "cardsAllProjects": [
       {
-        "title": "Portal Minha Senha",
+        "title": "Portal Minha Senha (C&A)",
         "images": "cardOne",
         "icons": "icons1"
       },
@@ -46,7 +46,7 @@
     ],
     "modalVideoHighlights": [
       {
-        "title": "Portal Minha Senha",
+        "title": "Portal Minha Senha (C&A)",
         "description": "Este projeto foi elaborado utilizando HTML, CSS e JavaScript, com o objetivo de proporcionar orientação e assistência aos usuários da empresa durante os processos de desbloqueio de conta e redefinição de senha. A interface é responsiva, incorporando modais para uma experiência de usuário intuitiva. Além disso, o projeto oferece um vídeo instrutivo para guiar os usuários através dos procedimentos e disponibiliza a opção de download de um PDF contendo instruções detalhadas para facilitar ainda mais o processo.",
         "images": "modalOne",
         "projectLink": "https://minhasenha.cea.com.br",
@@ -56,7 +56,7 @@
     ],
     "modalVideoAllProjects": [
       {
-        "title": "Portal Minha Senha",
+        "title": "Portal Minha Senha (C&A)",
         "description": "Este projeto foi elaborado utilizando HTML, CSS e JavaScript, com o objetivo de proporcionar orientação e assistência aos usuários da empresa durante os processos de desbloqueio de conta e redefinição de senha. A interface é responsiva, incorporando modais para uma experiência de usuário intuitiva. Além disso, o projeto oferece um vídeo instrutivo para guiar os usuários através dos procedimentos e disponibiliza a opção de download de um PDF contendo instruções detalhadas para facilitar ainda mais o processo.",
         "images": "modalOne",
         "projectLink": "https://minhasenha.cea.com.br",
